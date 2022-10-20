@@ -1,0 +1,17 @@
+{
+    "name": "jora/course-project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Georgiy Kamochkin",
+            "email": "jorawrx@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.20"
+    }
+}
